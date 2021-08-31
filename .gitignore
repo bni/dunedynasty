@@ -1,0 +1,6 @@
+.DS_Store
+/Build
+/app/DuneDynasty.app/Contents/MacOS/dunedynasty
+/app/DuneDynasty.app/Contents/libs/*.dylib
+/app/DuneDynasty.app/Contents/Resources/data/*.pak
+/app/DuneDynasty.app/Contents/Resources/music/fed2k_mt32/*.mp3
